@@ -6,8 +6,6 @@ I am building a program that prints "Hello World!" to the console. This is a sim
 
 My purpose of this project is to practice my Python skills.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/fF2YnF4oO-g)
 
 # Development Environment
